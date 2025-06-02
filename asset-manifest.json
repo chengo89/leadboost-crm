@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/leadboost-crm/static/css/main.d70fadef.css",
+    "main.js": "/leadboost-crm/static/js/main.dfc09916.js",
+    "index.html": "/leadboost-crm/index.html",
+    "main.d70fadef.css.map": "/leadboost-crm/static/css/main.d70fadef.css.map",
+    "main.dfc09916.js.map": "/leadboost-crm/static/js/main.dfc09916.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d70fadef.css",
+    "static/js/main.dfc09916.js"
+  ]
+}
